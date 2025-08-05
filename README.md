@@ -37,7 +37,7 @@ This is a business analytics project focused on analyzing SaaS sales data using 
 
 ## 📄 Files Included
 
-├── PowerBI_Dashboard.pbix
+├── Saasdashboard.pbix
 ├── data_preparation.sql
 ├── README.md
 |__ saasdashboard.pdf
