@@ -52,6 +52,8 @@ This is a business analytics project focused on analyzing SaaS sales data using 
 - Top Country: United States (₹630K in sales)
 - Highest Margin Industries: Finance (0.25), Energy (0.17)
 
+⭐ This project simulates a real-world BI pipeline using structured SQL logic and interactive Power BI storytelling.
+
 ---
 
 ## 🧑‍💻 Author
